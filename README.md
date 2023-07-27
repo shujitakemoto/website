@@ -1,3 +1,3 @@
 # website
 
-Nuxtを理解!!
+Nuxtを理解
